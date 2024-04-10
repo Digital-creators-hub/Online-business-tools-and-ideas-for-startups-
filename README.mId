@@ -1,74 +1,25 @@
-At digital creators hub we believe in creativity and skills in this modern world.
+Writing a good GitHub issue is an important part of contributing to a project. A well-written issue helps the project maintainers understand the problem you're facing or the feature you're requesting, and it makes it easier for them to fix the bug or implement the feature. Here are some tips on how to write a good GitHub issue:
 
-We help you bring your ideas to life through technology and creativity.
+Before you write an issue:
 
-With or without technical skills and experiences we will help you to achieve a goal of becoming a successful entrepreneur.
+Check if the issue has already been reported. You can search the project's issues list for similar problems.
+If you're reporting a bug, try to reproduce it consistently and identify the steps to reproduce it.
+Writing the issue:
 
-With our referral programs we will refer you to the best platforms, softwares and educational institutes that will help you achieve your goals.
+Use a clear and concise title. The title should be short enough to be easily scanned, but it should also be descriptive enough to give the maintainers a good idea of what the issue is about.
+Use a template if available. Many GitHub repositories use issue templates to help contributors write clear and concise reports. If a template is available, be sure to use it.
+Describe the issue in detail. In the body of the issue, clearly describe the problem you're facing or the feature you're requesting. Be as specific as possible and include any relevant information, such as:
+The steps to reproduce the issue (if reporting a bug)
+The expected behavior
+The actual behavior
+Any error messages you're seeing
+Links to relevant code or documentation
+Use code formatting. If you're including code in your issue, be sure to use code formatting to make it easier to read.
+Proofread your issue before submitting it. Make sure your issue is free of typos and grammatical errors.
+Additional tips:
 
-We will refer you to legit platforms that will help you to achieve what you are looking for as an entrepreneur start up. 
-
-Are you looking for a place to earn legal career certificates, badges and degrees? 
-
-Do you want to earn developer certificate, architectural certificate, cloud computing certificate, Google developer certificate, Android developer certificate etc.
-
-Are you looking for a legit place with side hustles, bidding, referral and paid partnership?
-
-Are you looking for free/premium themes to build your professional websites, e-commerce, online stores, mobile apps, CRM etc. 
-
-Are you looking for a place to improve future career opportunities with legal certificates, degrees and badges?
-
-At digital creators hub we recommend to you the best tools and ideas you need for your activity and productivity. 
-
-
-We help smart kids, Young and adults to achieve a goal of becoming a successful entrepreneur in this tech and modern world.
-
-We connect Small and local businesses to the world with the help of our marketplaces and online platforms available for everyone accessible to the internet.
-
-We connect musicians, bloggers, investors, teachers and learners with diverse backgrounds, skills, interests and experiences.
-
-Are you looking for a place to build your side hustle ideas?
-
-Are you New to the use of modern day technology to improve lives and productivity?
-
-Are you looking for a place to build personal assets from scratch?
-
-This platform is designed to help you access every tool and idea you need to build personal assets from scratch.
-
-Side hustle tools and ideas help you earn money aside from your normal monthly salaries, access unlimited tools and ideas by reading through our blogs and Websites
-Get answers to most important topics such as:
-
-1: Blogging
-
-2: freelancing
-
-3: Affiliate marketing
-
-4: Internet marketing
-
-5: WordPress/blogger
-
-6: Google adsense
-
-7: Digital creations
-
-8: Digital marketing etc.
-
-We help smart kids, Young and adults to achieve a goal of becoming a successful entrepreneur in this tech and modern world.
-
-We connect Small and local businesses to the world with the help of our marketplaces and online platforms available for everyone accessible to the internet.
-
-We connect musicians, bloggers, investors, teachers and learners with diverse backgrounds, skills, interests and experiences.
-
-Are you looking for a place to build your side hustle ideas?
-
-Are you New to the use of modern day technology to improve lives and productivity?
-
-Are you looking for a place to build personal assets from scratch?
-
-With or without technical experiences and skills you can own personal assets through many activities with or without investment.
-
-We're the synth 🎹 in your business and digital transformation.
-
-
+Be respectful. The project maintainers are volunteers, so be sure to be respectful in your tone.
+Be patient. It may take some time for the maintainers to respond to your issue.
+Keep the issue updated. If you have any additional information to share, or if the issue is resolved, be sure to update your issue.
+By following these tips, you can help to write clear and concise GitHub issues that will be helpful to the project maintainers.
 
